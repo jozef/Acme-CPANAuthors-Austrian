@@ -15,6 +15,7 @@ use Acme::CPANAuthors::Register (
     FLORIAN  => 'Florian Helmberger',
     GARGAMEL => 'Karlheinz Zöchling',
     GORTAN   => 'Philipp Gortan',
+    JKUTEJ   => 'Jozef Kutej',
     KALEX    => 'Alexander Keusch',
     LAMMEL   => 'Roland Lammel',
     LANTI    => 'Ingo Lantschner',
@@ -26,6 +27,7 @@ use Acme::CPANAuthors::Register (
     PEPL     => 'Michael Kröll',
     RGIERSIG => 'Roland Giersig',
     RURBAN   => 'Reini Urban',
+    SPINNE   => 'Andrea Pavlovic',
     ZEYA     => 'Hansjörg Pehofer',
 );
 1;
